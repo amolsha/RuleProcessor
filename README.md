@@ -15,6 +15,8 @@ Extraction Rulebase and Conceptual Model
 
 # Results
 <b>Results reported in the paper are summarized in the file: </b>Results.xlsx<br>
+<b>Results for the Data Hub data set  are presented in the file: </b>Results_Dataset1.xlsx<br>
+<b>Results for the Planning Poker data set are presented in the file: </b>Results_Dataset2.xlsx<br>
 
 # Implementation
 RuleProcessor is developed in Python. 
