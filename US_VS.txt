@@ -1,0 +1,12 @@
+As a visitor, I want to create a new account.
+As a visitor, I want to login to the system.
+As a visitor, I want to change my account password.
+As a visitor, I want to search for an event.
+As a visitor, I want to filter on event type, so that I can only see events of the type I want.
+As a visitor, I want to choose an event so that I can book a ticket for that event.
+As a visitor, I want to see the ticket price.
+As a visitor, I want to choose type of ticket.
+As a visitor, I want to purchase multiple tickets.
+As a visitor, I want to provide my personal details to purchase a ticket.
+As a visitor, I want to choose a payment method so that I can buy a ticket.
+As a visitor, I want to receive a purchased ticket.
